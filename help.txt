@@ -1,0 +1,22 @@
+THIS IS STEP BY STEP GUIDE TO USE THE FILE ORGANISER:
+
+
+STEP 1: Select File if you want to only organise/delete a single file.
+	Select Folder if you want all the contents of selected folder to be sorted/deleted.
+
+STEP 2: Use the Locate button to specify you File/Folder.
+
+STEP 3: Select the type of file(s) you want to orgnaise. ie- Videos, Images etc.
+
+STEP 4: Select the method you want to apply on your file(s).
+	Move is set by default
+##### CAUTION: USE THE DELETE METHOD CAREFULLY AS IT PERMANENTLY DELTES YOUR FILE(S). #####
+
+STEP 5: Select the destination where you want your files to end up in with the 'Add.
+
+
+STEP 6: Press the 'GO' Button start the process
+
+
+NOTE **SERIOUS** SOMETIMES THE NUMBER OF FILES MAYBE INACCURATE IN A SPECIFIC DIRECTORY BECAUSE OF THE SYSTEM RESTRICTION
+		 ALSO SOME FILES MAY NOT BE PERMITED TO MOVE OR DELETE BECAUSE OF THE SYSTEM 

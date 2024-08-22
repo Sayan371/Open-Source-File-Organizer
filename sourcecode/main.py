@@ -13,7 +13,7 @@ from pathlib import Path
 import sys
 sys.path.append('file_ext.py')
 ctypes.windll.shcore.SetProcessDpiAwareness(True)
-
+ctk.set_appearance_mode("Dark")
 
 downloads_path = str(Path.home() / "Downloads")
 desktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')

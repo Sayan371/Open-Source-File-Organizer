@@ -78,7 +78,7 @@ Feel free to contribute by submitting issues or pull requests. Your feedback is 
 ## Contact Info
 
 If you find any inconsistency just contact me here:
-1. Email - decodersayan@gmail.com
+1. Email - sayanbain11@gmail.com
 2. Instagram - [echo_scripts](https://www.instagram.com/echo_scrpits/)
 
 
